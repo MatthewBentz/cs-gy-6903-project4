@@ -30,7 +30,17 @@ git config user.name "Matthew Bentz"
 git add . && git commit -m "initial commit"
 
 # given you have GitHub CLI
-gh repo create cs-gy-6903-project4 --public --source=. --remote-origin --push
+gh repo create cs-gy-6903-project4 --public --source=. --remote origin --push
+```
+
+Running a Jupyter Notebook with venv
+```
+# intstall reqs in the venv
+pip install jupyter
+python -m ipykernel install --user --name=myenv
+# start jupyter server
+jupyter notebook
+# select env, copy server link, i.e. http://localhost:8888/tree?token=xyz
 ```
 
 Create a venv
