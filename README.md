@@ -6,10 +6,9 @@ Applied Cryptography with Z Chen at NYU
 
 **Group members:**
 - Matthew Bentz (mb9661@nyu.edu)
-
-~~- Darren Tahe (dt2607@nyu.edu)~~
-~~- Srikanth Akella (ta2728@nyu.edu)~~
-~~- Matthew Mobijohn (mm7655@nyu.edu)~~
+- Darren Tahe (dt2607@nyu.edu)
+- Srikanth Akella (ta2728@nyu.edu)
+- Matthew Mobijohn (mm7655@nyu.edu)
 
 ## Project Outline
 
