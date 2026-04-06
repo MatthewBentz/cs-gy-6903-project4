@@ -1,3 +1,0 @@
-This is file 2 at part1/six_leaf.
-
-Here is a random string: dc7b19bf9c2ee7349db32f7065f70bd3
