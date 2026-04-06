@@ -1,0 +1,3 @@
+This is file 3 at part1/four_leaf.
+
+Here is a random string: 5beccd38685f2e5f4533fe5eb863cf18

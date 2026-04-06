@@ -1,0 +1,3 @@
+This is file 5 at part1/six_leaf.
+
+Here is a random string: 6e85553fc6ab647c215e3dbb578019e9
