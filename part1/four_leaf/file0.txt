@@ -1,3 +1,0 @@
-This an update to the content in the file.
-
-Here is a random string: 60f0bb1ef4cf061dea34868becb9004f
